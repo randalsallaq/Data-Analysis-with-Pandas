@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "vg-stats"
+version = "0.1.0"
+description = ""
+authors = ["rand alsallaq <randalsallaq97@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+jupyterlab = "^2.2.9"
+pandas = "^1.1.5"
+jupyter = "^1.0.0"
+lab = "^6.2"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
