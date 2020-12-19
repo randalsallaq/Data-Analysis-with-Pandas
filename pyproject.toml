@@ -10,6 +10,7 @@ jupyterlab = "^2.2.9"
 pandas = "^1.1.5"
 jupyter = "^1.0.0"
 lab = "^6.2"
+matplotlib = "^3.3.3"
 
 [tool.poetry.dev-dependencies]
 
